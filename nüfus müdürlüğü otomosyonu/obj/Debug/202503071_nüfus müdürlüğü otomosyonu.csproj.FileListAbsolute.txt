@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\bin\Debug\202503071_nüfus müdürlüğü otomosyonu.exe.config
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\bin\Debug\202503071_nüfus müdürlüğü otomosyonu.exe
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\bin\Debug\202503071_nüfus müdürlüğü otomosyonu.pdb
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.FrmGiris.resources
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.Properties.Resources.resources
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\202503071_nüfus müdürlüğü otomosyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\202503071_nüfus müdürlüğü otomosyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\202503071_nüfus müdürlüğü otomosyonu.exe
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\202503071_nüfus müdürlüğü otomosyonu.pdb
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.Frmkayit.resources
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\202503071_nüfus müdürlüğü otomosyonu.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.kayit_listesi.resources
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.md5.resources
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.SifreDegistir.resources
+C:\Users\ASUS\source\repos\202503071_nüfus müdürlüğü otomosyonu\202503071_nüfus müdürlüğü otomosyonu\obj\Debug\_202503071_nüfus_müdürlüğü_otomosyonu.FrmEvlilik.resources
