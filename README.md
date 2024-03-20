@@ -1,10 +1,10 @@
 #Nufus_mudurlugu_otomasyonu
 
 
-Olusturdugum proje nüfus bilgilerini, evlilik kayit bilgilerini ver tabaninda kayit tutmak ve güncellemek için oluşturulmuş bir projedir. Bu proje ile daha hızlı ve güvenilir bir sekilde verilere erisim mümkün olur.
+Olusturdugum proje nüfus bilgilerini, evlilik kayit bilgilerini veritabaninda kayit tutmak ve güncellemek için oluşturulmuş bir projedir. Bu proje ile daha hızlı ve güvenilir bir sekilde verilere erisim mümkün olur.
 Kullanıcı adi,sifre girilerek ve giris seçenegi seçilerek giris yapilir.
 Kullanici olarak 2 giris seçenegi mevcuttur:
-Memur ve Yönetici Girisi
+  - Memur ve Yönetici Girisi
 
 Memur'un görevleri:
 
