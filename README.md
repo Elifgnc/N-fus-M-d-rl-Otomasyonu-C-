@@ -12,11 +12,11 @@ Memur'un görevleri:
 
 -Vatandas formunda: ekleme, güncelleme, silme, kayitlar listeleme, isme göre aratma islemlerini yapabilir.
 
-![Screenshot 2](Screenshots/vatandas.PNG)
+![Screenshot 2](Screenshots/Screenshots/vatandas.PNG)
 
 -Evlilik formunda: ekleme, güncelleme,silme, kayitlar listeleme, kadin ve erkek ismine göre aratma islemlerini yapabilir.
 
-![Screenshot 3](Screenshots/evlilik.PNG)
+![Screenshot 3](Screenshots/Screenshots/evlilik.PNG)
 
 Yöneticinin görevleri:
 
@@ -25,7 +25,7 @@ Yöneticinin görevleri:
 - Herhangi bir yanlislikta islemleri yenileyebilir.
 - Sifre degisikligi yapabilir.
 
-![Screenshot 4](Screenshots/sifredegistir.PNG)
+![Screenshot 4](Screenshots/Screenshots/sifredegistir.PNG)
 
 -Olusturulan kayitlari görebilir.
 
