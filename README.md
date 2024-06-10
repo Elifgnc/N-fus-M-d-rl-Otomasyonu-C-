@@ -6,7 +6,7 @@ Kullanıcı adi,sifre girilerek ve giris seçenegi seçilerek giris yapilir.
 Kullanici olarak 2 giris seçenegi mevcuttur:
   - Memur ve Yönetici Girisi
     
-![Screenshot 1](Screenshots/Screenshots/LOGİN.PNG)
+![Screenshot 1](Screenshots/Screenshots/Login.PNG)
 
 Memur'un görevleri:
 
