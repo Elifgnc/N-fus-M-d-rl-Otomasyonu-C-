@@ -29,5 +29,5 @@ Yöneticinin görevleri:
 
 -Olusturulan kayitlari görebilir.
 
-![Screenshot 5](Screenshots/kayıtlistesi.PNG)
+![Screenshot 5](Screenshots/Screenshots/kayıtlistesi.PNG)
 
